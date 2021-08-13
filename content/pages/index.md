@@ -5,9 +5,7 @@ sections:
     title: >-
       Hi, I’m Milad. I am an AI enthusiast with demonstrated skills in Deep
       Learning, Machine Learning, and Control Engineering
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: bluh bluh bluh
     actions:
       - label: Contact Me
         url: /contact
